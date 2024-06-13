@@ -1,4 +1,5 @@
-# Coroutines
+# Identical-Binary-Trees
+Takes two binary trees and uses coroutines to determine whether or not they are equal.
 
 # How to run the program
 Type python3 Tree.py in the command line. 
@@ -21,5 +22,3 @@ etc.
 ```
 
 I have three example files included (tree1_example.txt, etc.) for testing and as a guide for format. To run your own example file, go to the main function of Tree.py and insert the names of your files in tree.build_tree("file_name".txt).
-
-# Identical-Binary-Trees
