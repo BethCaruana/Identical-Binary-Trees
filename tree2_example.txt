@@ -1,0 +1,11 @@
+text
+hello
+hi
+number
+six
+total
+nose
+shoe
+house
+rent
+hours
